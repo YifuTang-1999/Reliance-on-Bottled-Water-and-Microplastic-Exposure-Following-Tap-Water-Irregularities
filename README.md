@@ -78,4 +78,4 @@ Software versions and package requirements will be listed here once the pipeline
 
 ## Contact
 
-[Your name] · [email] · [institution]
+[Yifu Tang] · [yiftang@clarku.edu] · [Clark University]
